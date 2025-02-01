@@ -1,8 +1,8 @@
-# **Registration Form**
+# **Survey-Form**
 
 ## **Project Overview**
 
-#### This Project Is A **Registration Form**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project Is A **Survey-Form**, Developed As Part of The FreeCodeCamp Curriculum. 
 
 #### The Primary Goal Is Learn HTML Forms By Building A Registration Form.
 
@@ -10,7 +10,7 @@
 
 + **Course Section**: Responsive Web Design.
   
-+ **Project Name**:  Registration Form Webpage.
++ **Project Name**:  Survey-Form.
   
 + This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
