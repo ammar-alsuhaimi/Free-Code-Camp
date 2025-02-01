@@ -51,4 +51,4 @@ This is one of the required projects to earn your certification. For this projec
 This is one of the required projects to earn your certification. For this project, you will build your own personal portfolio page.
 
 
-![RWS D.JPEG](https://github.com/ammar-alsuhaimi/Free-Code-Camp/blob/e893b3a0709d4bae463e92e7473907962f938c2a/JS%20D.jpeg)
+![RWS D.JPEG](https://github.com/ammar-alsuhaimi/Free-Code-Camp/blob/6e78883e7a19efe3599151fe13d9b0ee3901a78d/RWS%20D.jpeg)
