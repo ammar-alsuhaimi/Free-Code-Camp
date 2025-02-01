@@ -54,3 +54,4 @@ This is one of the required projects to earn your certification. For this projec
 ### Certification Project
 #### Build a Pokémon Search App Project - *Completed*
 This is one of the required projects to earn your certification. For this project, you will build a Pokémon search app.
+![JS D.JPEG](https://github.com/ammar-alsuhaimi/Free-Code-Camp/blob/3bbabb3d168540baf5125eaf804a4ec2ddad6f73/JS%20D.jpeg)
