@@ -33,7 +33,6 @@ This is one of the required projects to earn your certification. For this projec
 8. **Learn Accessibility by Building a Quiz** - *Completed*
 (https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/4-Quiz/quiz/)
 
-
 ### Certification Project
 #### Tribute Page - *Completed*
 (https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/5-Tribute-Page/)
@@ -65,10 +64,10 @@ This is one of the required projects to earn your certification. For this projec
 (https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/1-Ferris-Wheel/)
 15. **Learn CSS Transforms by Building a Penguin** - *Completed*
 (https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/2-Penguin/)
+
 ### Certification Project
 #### Personal Portfolio Webpage - *Completed*
 (https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/3-Personal-Portfolio-Webpage/)
 This is one of the required projects to earn your certification. For this project, you will build your own personal portfolio page.
-
 
 ![RWS D.JPEG](https://github.com/ammar-alsuhaimi/Free-Code-Camp/blob/6e78883e7a19efe3599151fe13d9b0ee3901a78d/RWS%20D.jpeg)
