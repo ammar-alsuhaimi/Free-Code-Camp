@@ -118,6 +118,7 @@ In the **Responsive Web Design Certification**, you learn the essential language
 
 1. **Learn HTML by Building a Cat Photo App** - *Completed*
    [View Project Code](https://github.com/ammar-alsuhaimi/Free-Code-Camp/tree/main/1-Responsive-Websites/Part-1/1-Cat-Photo-App)
+   
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/1-Cat-Photo-App/)
 
 3. **Learn Basic CSS by Building a Cafe Menu** - *Completed*  
