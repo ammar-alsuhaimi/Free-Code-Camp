@@ -397,6 +397,7 @@ Developers use HTML and CSS to control the content and styling of a page, while 
 
     #### Certification Project
     **Build a Pokémon Search App Project** - *Completed*
+    
     [View Project Code](https://github.com/ammar-alsuhaimi/Free-Code-Camp/tree/main/2-Javascript-Data-Algorthiem/Part-5/3-Pokemon-Search-App)
 
     [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/3-Pokemon-Search-App/)
