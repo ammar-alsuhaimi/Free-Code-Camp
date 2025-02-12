@@ -130,63 +130,63 @@ In the **Responsive Web Design Certification**, you learn the essential language
    
 
 5. **Learn CSS Colors by Building a Set of Colored Markers** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/3-Set-of-Colored-Markers/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/3-Set-of-Colored-Markers/)
 
 6. **Learn HTML Forms by Building a Registration Form** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/4-Registration-Form/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/4-Registration-Form/)
 
    #### Certification Project
    **Survey Form** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/5-Survey-Form/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/5-Survey-Form/)
 
 7. **Learn the CSS Box Model by Building a Rothko Painting** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/1-Rothko-Painting/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/1-Rothko-Painting/)
 
 8. **Learn CSS Flexbox by Building a Photo Gallery** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/2-Photo-Gallery/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/2-Photo-Gallery/)
 
 9. **Learn Typography by Building a Nutrition Label** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/3-Nutrition-Label/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/3-Nutrition-Label/)
 
 10. **Learn Accessibility by Building a Quiz** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/4-Quiz/quiz/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/4-Quiz/quiz/)
 
    #### Certification Project
    **Tribute Page** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/5-Tribute-Page/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/5-Tribute-Page/)
 
 11. **Learn More About CSS Pseudo Selectors by Building A Balance Sheet** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/1-Balance-Sheet/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/1-Balance-Sheet/)
 
 12. **Learn Intermediate CSS by Building a Cat Painting** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/2-Cat-Painting/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/2-Cat-Painting/)
 
 13. **Learn Responsive Web Design by Building a Piano** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/3-Piano/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/3-Piano/)
 
     #### Certification Project
     **Technical Documentation Page** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/4-Technical-Documentation-Page/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/4-Technical-Documentation-Page/)
 
 14. **Learn CSS Variables by Building a City Skyline** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/1-City-Skyline/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/1-City-Skyline/)
 
 15. **Learn CSS Grid by Building a Magazine** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/2-Magazine/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/2-Magazine/)
 
     #### Certification Project
     **Product Landing Page** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/3-Product-Landing-Page/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/3-Product-Landing-Page/)
 
 16. **Learn CSS Animation by Building a Ferris Wheel** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/1-Ferris-Wheel/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/1-Ferris-Wheel/)
 
 17. **Learn CSS Transforms by Building a Penguin** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/2-Penguin/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/2-Penguin/)
 
     #### Certification Project
     **Personal Portfolio Webpage** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/3-Personal-Portfolio-Webpage/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/3-Personal-Portfolio-Webpage/)
 
 ---
 
@@ -197,84 +197,84 @@ Developers use HTML and CSS to control the content and styling of a page, while 
 ### JavaScript Courses and Projects
 
 1. **Learn Introductory JavaScript by Building a Pyramid Generator** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/1-Pyramid-Generator/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/1-Pyramid-Generator/)
 
 2. **Review JavaScript Fundamentals by Building a Gradebook App** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/2-GradeBook-App/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/2-GradeBook-App/)
 
 3. **Learn Basic JavaScript by Building a Role Playing Game** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/3-Role-Playing-Game/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/3-Role-Playing-Game/)
 
 4. **Learn Basic Debugging by Building a Random Background Color Changer** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/4-Random-Background-Color-Changer/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/4-Random-Background-Color-Changer/)
 
 5. **Learn Form Validation by Building a Calorie Counter** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/5-Calorie-Counter/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/5-Calorie-Counter/)
 
 6. **Review DOM Manipulation by Building a Rock, Paper, Scissors Game** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/6-Rock-Paper-Scissors-Game/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/6-Rock-Paper-Scissors-Game/)
 
 7. **Learn Basic String and Array Methods by Building a Music Player** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/7-Music-Player/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/7-Music-Player/)
 
    #### Certification Project
    **Build a Palindrome Checker Project** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/8-Palindrome-Checker-Project/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-1/8-Palindrome-Checker-Project/)
 
 8. **Learn the Date Object by Building a Date Formatter** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/1-Data-Formatter/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/1-Data-Formatter/)
 
 9. **Learn Modern JavaScript Methods by Building Football Team Cards** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/2-Football-Team-Cards/)
+   [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/2-Football-Team-Cards/)
 
 10. **Learn localStorage by Building a Todo App** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/3-Todo-App/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/3-Todo-App/)
 
 11. **Learn Recursion by Building a Decimal to Binary Converter** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/4-Decimal-to-Binary-Converter/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/4-Decimal-to-Binary-Converter/)
 
     #### Certification Project
     **Build a Roman Numeral Converter Project** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/5-Roman-Numeral-Converter-Project/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-2/5-Roman-Numeral-Converter-Project/)
 
 12. **Learn Regular Expressions by Building a Spam Filter** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/1-A-Spam-Filter/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/1-A-Spam-Filter/)
 
 13. **Learn Basic Algorithmic Thinking by Building a Number Sorter** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/2-Number-Sorter/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/2-Number-Sorter/)
 
 14. **Learn Advanced Array Methods by Building a Statistics Calculator** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/3-Statistics-Calculator/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/3-Statistics-Calculator/)
 
 15. **Learn Functional Programming by Building a Spreadsheet** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/4-Spreadsheet/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/4-Spreadsheet/)
 
     #### Certification Project
     **Build a Telephone Number Validator Project** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/5-Telephone-Number-Validator/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-3/5-Telephone-Number-Validator/)
 
 16. **Learn Basic OOP by Building a Shopping Cart** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/1-Shopping-Cart/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/1-Shopping-Cart/)
 
 17. **Learn Intermediate OOP by Building a Platformer Game** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/2-Platformer-Game/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/2-Platformer-Game/)
 
 18. **Review Algorithmic Thinking by Building a Dice Game** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/3-Dice-Game/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/3-Dice-Game/)
 
     #### Certification Project
     **Build a Cash Register Project** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/4-Cash-Register/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-4/4-Cash-Register/)
 
 19. **Learn Fetch and Promises by Building an fCC Authors Page** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/1-An-FCC-Authors-Page/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/1-An-FCC-Authors-Page/)
 
 20. **Learn Asynchronous Programming by Building an fCC Forum Leaderboard** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/2-An-FCC-Forum-Leaderboard/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/2-An-FCC-Forum-Leaderboard/)
 
     #### Certification Project
     **Build a Pokémon Search App Project** - *Completed*  
-    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/3-Pokemon-Search-App/)
+    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/2-Javascript-Data-Algorthiem/Part-5/3-Pokemon-Search-App/)
 
 ---
 
