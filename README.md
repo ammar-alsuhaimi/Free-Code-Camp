@@ -122,62 +122,66 @@ In the **Responsive Web Design Certification**, you learn the essential language
    
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/1-Cat-Photo-App/)
 
-3. **Learn Basic CSS by Building a Cafe Menu** - *Completed*  
-   [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/2-Caffe-Menu/)
+3. **Learn Basic CSS by Building a Cafe Menu** - *Completed*
 
-4. **Learn CSS Colors by Building a Set of Colored Markers** - *Completed*  
+   [View Project Code](https://github.com/ammar-alsuhaimi/Free-Code-Camp/tree/main/1-Responsive-Websites/Part-1/2-Caffe-Menu)
+   
+   [View Project Websit](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/2-Caffe-Menu/)
+   
+
+5. **Learn CSS Colors by Building a Set of Colored Markers** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/3-Set-of-Colored-Markers/)
 
-5. **Learn HTML Forms by Building a Registration Form** - *Completed*  
+6. **Learn HTML Forms by Building a Registration Form** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/4-Registration-Form/)
 
    #### Certification Project
    **Survey Form** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/5-Survey-Form/)
 
-6. **Learn the CSS Box Model by Building a Rothko Painting** - *Completed*  
+7. **Learn the CSS Box Model by Building a Rothko Painting** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/1-Rothko-Painting/)
 
-7. **Learn CSS Flexbox by Building a Photo Gallery** - *Completed*  
+8. **Learn CSS Flexbox by Building a Photo Gallery** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/2-Photo-Gallery/)
 
-8. **Learn Typography by Building a Nutrition Label** - *Completed*  
+9. **Learn Typography by Building a Nutrition Label** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/3-Nutrition-Label/)
 
-9. **Learn Accessibility by Building a Quiz** - *Completed*  
+10. **Learn Accessibility by Building a Quiz** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/4-Quiz/quiz/)
 
    #### Certification Project
    **Tribute Page** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/5-Tribute-Page/)
 
-10. **Learn More About CSS Pseudo Selectors by Building A Balance Sheet** - *Completed*  
+11. **Learn More About CSS Pseudo Selectors by Building A Balance Sheet** - *Completed*  
    [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/1-Balance-Sheet/)
 
-11. **Learn Intermediate CSS by Building a Cat Painting** - *Completed*  
+12. **Learn Intermediate CSS by Building a Cat Painting** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/2-Cat-Painting/)
 
-12. **Learn Responsive Web Design by Building a Piano** - *Completed*  
+13. **Learn Responsive Web Design by Building a Piano** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/3-Piano/)
 
     #### Certification Project
     **Technical Documentation Page** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-3/4-Technical-Documentation-Page/)
 
-13. **Learn CSS Variables by Building a City Skyline** - *Completed*  
+14. **Learn CSS Variables by Building a City Skyline** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/1-City-Skyline/)
 
-14. **Learn CSS Grid by Building a Magazine** - *Completed*  
+15. **Learn CSS Grid by Building a Magazine** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/2-Magazine/)
 
     #### Certification Project
     **Product Landing Page** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-4/3-Product-Landing-Page/)
 
-15. **Learn CSS Animation by Building a Ferris Wheel** - *Completed*  
+16. **Learn CSS Animation by Building a Ferris Wheel** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/1-Ferris-Wheel/)
 
-16. **Learn CSS Transforms by Building a Penguin** - *Completed*  
+17. **Learn CSS Transforms by Building a Penguin** - *Completed*  
     [View Project](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-5/2-Penguin/)
 
     #### Certification Project
