@@ -129,26 +129,29 @@ In the **Responsive Web Design Certification**, you learn the essential language
    [View Project Websit](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/2-Caffe-Menu/)
    
 
-5. **Learn CSS Colors by Building a Set of Colored Markers** - *Completed*  
+5. **Learn CSS Colors by Building a Set of Colored Markers** - *Completed*
+
+   [View Project Code](https://github.com/ammar-alsuhaimi/Free-Code-Camp/tree/main/1-Responsive-Websites/Part-1/3-Set-of-Colored-Markers)
+   
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/3-Set-of-Colored-Markers/)
 
-6. **Learn HTML Forms by Building a Registration Form** - *Completed*  
+7. **Learn HTML Forms by Building a Registration Form** - *Completed*  
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/4-Registration-Form/)
 
    #### Certification Project
    **Survey Form** - *Completed*  
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-1/5-Survey-Form/)
 
-7. **Learn the CSS Box Model by Building a Rothko Painting** - *Completed*  
+8. **Learn the CSS Box Model by Building a Rothko Painting** - *Completed*  
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/1-Rothko-Painting/)
 
-8. **Learn CSS Flexbox by Building a Photo Gallery** - *Completed*  
+9. **Learn CSS Flexbox by Building a Photo Gallery** - *Completed*  
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/2-Photo-Gallery/)
 
-9. **Learn Typography by Building a Nutrition Label** - *Completed*  
+10. **Learn Typography by Building a Nutrition Label** - *Completed*  
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/3-Nutrition-Label/)
 
-10. **Learn Accessibility by Building a Quiz** - *Completed*  
+11. **Learn Accessibility by Building a Quiz** - *Completed*  
    [View Project Website](https://ammar-alsuhaimi.github.io/Free-Code-Camp/1-Responsive-Websites/Part-2/4-Quiz/quiz/)
 
    #### Certification Project
