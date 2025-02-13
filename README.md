@@ -417,3 +417,4 @@ Below are a couple of images included in the projects:
 ---
 
 *This document has been organized to serve as a one-stop guide for everything related to Free Code Camp—from its overarching mission and community to the specifics of the Responsive Web Design and JavaScript Algorithms and Data Structures certifications. Enjoy your coding journey!*
+*Here is some <span style="color: red;">red text</span> in a Markdown file*
